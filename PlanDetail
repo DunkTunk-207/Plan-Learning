@@ -1,0 +1,50 @@
+!!! .Net 8:
+  - gRPC, async streams, nullable reference types
+  - Performance improvements like Just-In-Time (JIT) Compiler, GC (Garbage Collector) enhancements
+  - C# 9.0:
+    + Record
+    + Init only setters
+    + Pattern matching enhancements
+    + Native sized integers
+    + Function pointers
+    + Suppress emitting locals init flag
+    + Target-typed new expressions
+    + Static anonymous functions
+    + Target-typed conditional expressions
+    + Covariant return types
+    + Extension GetEnumerator support for foreach loops
+    + Lambda discard parameters
+    + Attributes on local functions
+    + Module initializers
+  - New Libraries and Frameworks: Windows Forms Designer, Azure SDK, Entity Framework Core, and ASP.NET Core.
+
+!!! Azure fundamental
+  - Azure Virtual Machines
+  - Azure App Service
+  - Azure Storage
+  - Azure SQL Database
+  - Azure Functions
+  - Azure Cosmos DB
+  - Azure Resource Manager
+  - Azure Active Directory
+  - Azure Monitor, Azure Log Analytics và Azure Application Insights
+  - Learn how to design and deploy cloud solutions on Azure. Learn about scalability, high availability, geographic independence, and deployment models such as IaaS (Infrastructure as a Service), PaaS (Platform as a Service), and SaaS (Software as a Service) ).
+  - Azure Cost Management + Billing
+
+!!! CI/CD
+  - Read about Continuous Integration (CI) and Continuous Deployment (CD) to understand their meaning and benefits.
+  - Learn about the concept of CI/CD pipeline and its role in automating the software development and deployment process.
+  - Azure DevOps: Explore Azure DevOps features, including Azure Pipelines, Azure Repos, Azure Boards, and Azure Artifacts to build and deploy CI/CD pipelines.
+  - Research on types of automated testing such as unit testing, integration testing, and end-to-end testing.
+  - Practice and apply in real projects
+
+!!! .NET MAUI
+  - Read about .NET MAUI and understand the platform's goals, benefits, and features.
+  - Learn more about Xamarin.Forms
+  - Understand .NET MAUI project structure and key components such as View, ViewModel, Services, and Dependency Injection (DI).
+  - Start by building a simple application on .NET MAUI.
+  - Learn about user interface elements like Layouts, Controls, and Data Binding.
+  - Learn about integrating cross-platform features like Navigation, Styles, Theming, and Localization in .NET MAUI.
+  - Learn about data preloading, caching, and asynchronous processing techniques.
+  - Practice coding to create reusable modules that run on multiple platforms.
+  - Deploy .NET MAUI apps on different platforms like Android, iOS, and UWP.
