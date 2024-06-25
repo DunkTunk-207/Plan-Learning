@@ -1,21 +1,16 @@
 !!! .Net 8:
   - gRPC, async streams, nullable reference types
   - Performance improvements like Just-In-Time (JIT) Compiler, GC (Garbage Collector) enhancements
-  - C# 9.0:
-    + Record
-    + Init only setters
-    + Pattern matching enhancements
-    + Native sized integers
-    + Function pointers
-    + Suppress emitting locals init flag
-    + Target-typed new expressions
-    + Static anonymous functions
-    + Target-typed conditional expressions
-    + Covariant return types
-    + Extension GetEnumerator support for foreach loops
-    + Lambda discard parameters
-    + Attributes on local functions
-    + Module initializers
+  - C# 12:
+   + Primary constructors
+   + Collection expressions 
+   + Inline arrays
+   + Inline arrays
+   + ref readonly parameters 
+   + Optional parameters in lambda expressions 
+   + Alias any type 
+   + Experimental attribute 
+   + Interceptors 
   - New Libraries and Frameworks: Windows Forms Designer, Azure SDK, Entity Framework Core, and ASP.NET Core.
 
 !!! Azure fundamental
